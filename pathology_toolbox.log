@@ -1,0 +1,186 @@
+2025-05-28 02:36:54,793 - INFO - Running in GUI mode
+2025-05-28 02:37:21,846 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [29.313044..243.0].
+2025-05-28 02:37:33,008 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [23.799999237060547..170.09999084472656].
+2025-05-28 02:37:37,929 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [23.799999237060547..170.09999084472656].
+2025-05-28 02:41:53,642 - INFO - Running in GUI mode
+2025-05-28 02:42:19,318 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [49.059402..245.0].
+2025-05-28 02:42:23,947 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [49.059402..245.0].
+2025-05-28 02:42:27,399 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [49.059402..245.0].
+2025-05-28 02:42:34,316 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [30.77778..251.0].
+2025-05-28 02:42:41,951 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [28.0..175.6999969482422].
+2025-05-28 02:42:44,067 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [30.77778..251.0].
+2025-05-28 11:32:30,486 - INFO - Running in GUI mode
+2025-05-28 11:32:57,574 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [23.97269..251.0].
+2025-05-28 11:54:37,221 - INFO - Running in GUI mode
+2025-05-28 11:55:42,664 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [54.08637..251.0].
+2025-05-28 13:06:31,316 - INFO - Running in GUI mode
+2025-05-28 13:07:30,523 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [54.08637..251.0].
+2025-05-28 13:08:07,130 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [53.208744..251.0].
+2025-05-28 13:08:56,512 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [43.961536..251.0].
+2025-05-28 13:09:12,223 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [61.88904..251.0].
+2025-05-29 21:40:17,779 - INFO - Running in GUI mode
+2025-05-29 21:41:11,782 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [27.282566..251.0].
+2025-05-29 21:41:31,114 - INFO - Running in GUI mode
+2025-05-29 21:41:48,604 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [23.517511..251.0].
+2025-05-29 21:42:59,703 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [24.5..175.6999969482422].
+2025-05-29 21:43:06,565 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [23.517511..251.0].
+2025-05-29 21:43:16,498 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [23.517511..251.0].
+2025-05-29 21:43:47,299 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [23.517511..251.0].
+2025-05-29 21:43:53,817 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [91.70536..249.0].
+2025-05-29 21:43:57,370 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [72.0999984741211..174.3000030517578].
+2025-05-29 21:44:00,763 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [91.70536..249.0].
+2025-05-29 21:55:15,076 - INFO - Running in GUI mode
+2025-05-29 21:55:35,969 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [52.916378..251.0].
+2025-05-29 21:56:51,091 - INFO - Running in GUI mode
+2025-05-29 21:57:22,310 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [52.47686..251.0].
+2025-05-29 21:57:29,911 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [52.47686..251.0].
+2025-05-29 21:57:32,849 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [42.0..175.6999969482422].
+2025-05-29 22:01:40,679 - INFO - Running in GUI mode
+2025-05-29 22:02:01,236 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [47.667656..251.0].
+2025-05-29 22:02:36,500 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [47.667656..251.0].
+2025-05-29 22:03:17,300 - INFO - Running in GUI mode
+2025-05-29 22:05:55,904 - INFO - Running in GUI mode
+2025-05-29 22:14:20,487 - INFO - Running in GUI mode
+2025-05-29 22:14:35,790 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 22:14:39,212 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 22:20:14,337 - INFO - Running in GUI mode
+2025-05-29 22:20:28,513 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [54.08637..251.0].
+2025-05-29 22:24:56,772 - INFO - Running in GUI mode
+2025-05-29 22:25:15,702 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [48.695995..252.0].
+2025-05-29 22:27:12,513 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [40.599998474121094..176.39999389648438].
+2025-05-29 22:50:13,911 - INFO - Running in GUI mode
+2025-05-29 22:50:32,611 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [36.532967..251.0].
+2025-05-29 22:58:34,838 - INFO - Running in GUI mode
+2025-05-29 22:58:47,737 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 22:58:51,890 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [35.0..175.6999969482422].
+2025-05-29 22:59:20,275 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [35.0..175.6999969482422].
+2025-05-29 23:04:28,387 - INFO - Running in GUI mode
+2025-05-29 23:04:51,518 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [60.29592..248.0].
+2025-05-29 23:05:00,169 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [50.39999771118164..173.59999084472656].
+2025-05-29 23:07:08,490 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [50.39999771118164..173.59999084472656].
+2025-05-29 23:09:59,396 - INFO - Running in GUI mode
+2025-05-29 23:10:11,347 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 23:10:24,327 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 23:10:25,954 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [30.000001907348633..150.60000610351562].
+2025-05-29 23:10:41,301 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [30.000001907348633..150.60000610351562].
+2025-05-29 23:10:45,217 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 23:10:52,723 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 23:11:17,666 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 23:11:25,018 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [84.430084..251.0].
+2025-05-29 23:11:31,292 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [55.20000076293945..150.60000610351562].
+2025-05-29 23:11:46,868 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [55.20000076293945..150.60000610351562].
+2025-05-29 23:11:51,407 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [84.430084..251.0].
+2025-05-29 23:11:57,749 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [55.20000076293945..150.60000610351562].
+2025-05-29 23:15:43,658 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [84.430084..251.0].
+2025-05-29 23:15:44,815 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [55.20000076293945..150.60000610351562].
+2025-05-29 23:19:33,324 - INFO - Running in GUI mode
+2025-05-29 23:19:42,610 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 23:19:55,024 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [30.000001907348633..150.60000610351562].
+2025-05-29 23:19:59,906 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 23:20:05,726 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [30.000001907348633..150.60000610351562].
+2025-05-29 23:20:14,465 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 23:37:51,563 - INFO - Running in GUI mode
+2025-05-29 23:44:01,198 - INFO - Running in GUI mode
+2025-05-29 23:47:57,495 - INFO - Running in GUI mode
+2025-05-29 23:52:38,786 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 23:52:43,468 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [30.000001907348633..150.60000610351562].
+2025-05-29 23:52:53,218 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [30.000001907348633..150.60000610351562].
+2025-05-29 23:52:59,342 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 23:53:02,600 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 23:53:04,540 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [30.000001907348633..151.00000610351563].
+2025-05-29 23:53:09,500 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 23:53:14,860 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-29 23:53:19,036 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [30.000001907348633..150.60000610351562].
+2025-05-29 23:53:30,015 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [32.400001525878906..150.60000610351562].
+2025-05-29 23:53:36,085 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [46.446358..251.0].
+2025-05-29 23:53:42,212 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [46.446358..251.0].
+2025-05-29 23:53:45,884 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [32.400001525878906..150.60000610351562].
+2025-05-29 23:53:48,186 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [46.446358..251.0].
+2025-05-29 23:53:53,823 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [46.446358..251.0].
+2025-05-29 23:55:07,625 - INFO - Running in GUI mode
+2025-05-29 23:57:31,563 - INFO - Running in GUI mode
+2025-05-29 23:59:06,861 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [33.60000228881836..150.0].
+2025-05-29 23:59:11,483 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [48.82132..250.0].
+2025-05-29 23:59:17,485 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [48.82132..250.0].
+2025-05-29 23:59:21,422 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [33.60000228881836..150.0].
+2025-05-29 23:59:23,849 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [48.82132..250.0].
+2025-05-29 23:59:29,032 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [48.82132..250.0].
+2025-05-29 23:59:32,250 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [33.60000228881836..150.0].
+2025-05-30 00:01:35,411 - INFO - Running in GUI mode
+2025-05-30 00:06:48,412 - INFO - Running in GUI mode
+2025-05-30 00:15:48,526 - INFO - Running in GUI mode
+2025-05-30 00:16:13,478 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-30 00:29:21,977 - INFO - Running in GUI mode
+2025-05-30 00:36:22,805 - INFO - Running in GUI mode
+2025-05-30 00:36:22,815 - ERROR - GUI mode failed: expected 'except' or 'finally' block (app.py, line 845)
+2025-05-30 00:37:33,169 - INFO - Running in GUI mode
+2025-05-30 00:37:33,502 - ERROR - GUI dependencies not available: cannot import name 'main' from 'ui.app' (C:\Users\kuti\Desktop\model\ui\app.py)
+2025-05-30 00:37:33,502 - INFO - Falling back to CLI mode. Use --help for CLI options.
+2025-05-30 00:39:58,541 - INFO - Running in GUI mode
+2025-05-30 00:39:58,551 - ERROR - GUI mode failed: 'PathologyCellCounterApp' object has no attribute 'analyze_dataset'
+2025-05-30 00:42:33,421 - INFO - Running in GUI mode
+2025-05-30 00:42:36,814 - ERROR - GUI mode failed: 'PathologyCellCounterApp' object has no attribute 'add_ultimate_analysis_tab'
+2025-05-30 00:45:31,062 - INFO - Running in GUI mode
+2025-05-30 00:47:16,177 - INFO - Running in GUI mode
+2025-05-30 00:50:00,504 - INFO - Running in GUI mode
+2025-05-30 00:53:51,703 - INFO - Running in GUI mode
+2025-05-30 00:58:22,371 - INFO - Running in GUI mode
+2025-05-30 01:10:00,194 - INFO - Running in GUI mode
+2025-05-30 01:10:33,790 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-30 01:11:08,214 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-30 01:11:44,238 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-30 01:22:46,654 - INFO - Running in GUI mode
+2025-05-30 01:23:49,876 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-30 01:32:20,478 - INFO - Running in GUI mode
+2025-05-30 01:32:58,426 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-30 01:33:06,096 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-30 01:35:04,502 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-30 01:35:09,335 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-30 01:35:16,099 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-30 01:35:22,388 - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [37.714058..251.0].
+2025-05-30 01:37:18,144 - INFO - Running in GUI mode
+2025-05-30 01:40:57,585 - INFO - Running in GUI mode
+2025-05-30 01:51:03,200 - INFO - Running in GUI mode
+2025-05-30 02:01:36,909 - INFO - Running in GUI mode
+2025-05-30 02:09:23,071 - INFO - Running in GUI mode
+2025-05-30 02:24:01,173 - INFO - Running in GUI mode
+2025-05-30 02:24:47,651 - INFO - Running in GUI mode
+2025-05-30 02:33:06,851 - INFO - Running in GUI mode
+2025-05-30 02:38:20,471 - INFO - Running in GUI mode
+2025-05-30 02:44:49,663 - INFO - Running in GUI mode
+2025-05-30 02:50:37,049 - INFO - Running in GUI mode
+2025-05-30 03:07:21,285 - INFO - Running in GUI mode
+2025-05-30 03:11:30,722 - INFO - Running in GUI mode
+2025-05-30 03:16:48,337 - INFO - Running in GUI mode
+2025-05-30 03:22:11,414 - INFO - Running in GUI mode
+2025-05-30 03:28:47,240 - INFO - Running in GUI mode
+2025-05-30 03:36:39,225 - INFO - Running in GUI mode
+2025-05-30 03:38:29,885 - INFO - Running in GUI mode
+2025-05-30 03:43:56,154 - INFO - Running in GUI mode
+2025-05-30 03:53:08,584 - INFO - Running in GUI mode
+2025-05-30 03:59:09,763 - INFO - Running in GUI mode
+2025-05-30 04:07:49,624 - INFO - Running in GUI mode
+2025-05-30 04:14:07,643 - INFO - Running in GUI mode
+2025-05-30 04:18:18,952 - INFO - Running in GUI mode
+2025-05-30 04:23:25,624 - INFO - Running in GUI mode
+2025-05-30 04:26:47,852 - INFO - Running in GUI mode
+2025-05-30 04:30:28,973 - INFO - Running in GUI mode
+2025-05-30 04:34:43,752 - INFO - Running in GUI mode
+2025-05-30 04:40:26,787 - INFO - Running in GUI mode
+2025-05-30 04:49:47,191 - INFO - Running in GUI mode
+2025-05-30 05:00:47,863 - INFO - Running in GUI mode
+2025-05-30 05:05:37,485 - INFO - Running in GUI mode
+2025-05-30 05:10:12,990 - INFO - Running in GUI mode
+2025-05-30 05:15:04,228 - INFO - Running in GUI mode
+2025-05-30 05:26:53,756 - INFO - Running in GUI mode
+2025-06-03 14:55:07,123 - INFO - Running in GUI mode
+2025-06-03 14:55:07,588 - ERROR - GUI mode failed: name 'QScrollArea' is not defined
+2025-06-03 14:58:31,213 - INFO - Running in GUI mode
+2025-06-03 14:59:51,317 - INFO - Function `function` contains input name(s) resource with unsupported characters which will be renamed to unet_segmentation_1_conv2d_23_1_reshape_readvariableop_resource in the SavedModel.
+2025-06-03 14:59:51,363 - INFO - Function `function` contains input name(s) resource with unsupported characters which will be renamed to unet_segmentation_1_conv2d_23_1_reshape_readvariableop_resource in the SavedModel.
+2025-06-03 14:59:53,518 - INFO - Assets written to: C:\Users\kuti\AppData\Local\Temp\tmpvpel8975\assets
+2025-06-03 15:01:08,935 - INFO - Running in GUI mode
+2025-06-03 16:07:31,039 - INFO - Running in GUI mode
+2025-06-03 16:15:08,830 - INFO - Running in GUI mode
+2025-06-03 16:20:07,160 - INFO - Running in GUI mode
+2025-06-03 16:25:01,764 - INFO - Running in GUI mode

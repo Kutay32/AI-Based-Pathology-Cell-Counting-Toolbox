@@ -1,0 +1,32 @@
+{
+    "seg_model_path": "segmentation_model.keras",
+    "cls_model_path": "classification_model.keras",
+    "result_dir": "results",
+    "pixel_size": 0.25,
+    "stain_matrix": [
+        [0.65, 0.70, 0.29],
+        [0.07, 0.99, 0.11],
+        [0.27, 0.57, 0.78]
+    ],
+    "min_cell_size": 50,
+    "max_cell_size": 1000,
+    "class_names": [
+        "Background", 
+        "Neoplastic", 
+        "Inflammatory", 
+        "Connective", 
+        "Dead", 
+        "Epithelial"
+    ],
+    "class_colors": {
+        "Neoplastic": [255, 0, 0],
+        "Inflammatory": [0, 255, 0],
+        "Connective": [0, 0, 255],
+        "Dead": [255, 255, 0],
+        "Epithelial": [255, 0, 255]
+    },
+    "separate_touching_cells": true,
+    "morphological_cleanup": true,
+    "clustering_distance": 50,
+    "generate_pdf_report": true
+}
