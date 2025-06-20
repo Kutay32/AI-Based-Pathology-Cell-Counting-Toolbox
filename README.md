@@ -68,7 +68,7 @@ AI-Based-Pathology-Cell-Counting-Toolbox/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AI-Based-Pathology-Cell-Counting-Toolbox.git
+git clone https://github.com/Kutay32/AI-Based-Pathology-Cell-Counting-Toolbox.git
 cd AI-Based-Pathology-Cell-Counting-Toolbox
 ```
 
